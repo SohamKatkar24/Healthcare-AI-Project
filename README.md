@@ -5,8 +5,7 @@ This project is an end-to-end Healthcare AI platform designed to assist medical 
 
 The system ingests **FHIR-standard** patient data, predicts cardiac risk using Machine Learning, explains the prediction using **SHAP (Explainable AI)**, and extracts medical entities from doctor's notes using **BioBERT (NLP)**.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot+Placeholder)
-*(Replace this link with your actual screenshot after uploading)*
+!<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/bae787f7-a0e4-4197-b36c-d7da27508bc4" />
 
 ## 🚀 Key Features
 * **FHIR Data Ingestion:** automated parsing of complex nested JSON patient records (Synthea dataset).
