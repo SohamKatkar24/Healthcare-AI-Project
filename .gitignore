@@ -1,0 +1,14 @@
+# Ignore Data
+synthea_sample_data_fhir_r4_sep2019/
+*.zip
+*.json
+
+# Ignore System Files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore Virtual Environments (if you have them)
+venv/
+env/
